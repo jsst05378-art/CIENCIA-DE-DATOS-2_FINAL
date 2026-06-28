@@ -1,0 +1,3254 @@
+BANCO ATLAS FINANCIERO S.A.
+Manual Corporativo Consolidado y Políticas Operativas
+Edición Extendida 2026. Este documento contiene la totalidad de las normativas de
+Recursos Humanos, Reglamento Interno de Trabajo, Compliance, Seguridad de la
+Información, Beneficios, Relación de Puestos de Trabajo (RPT), Nómina y
+Operaciones Bancarias. 
+Volumen I - Vigencia: Enero 2026 a Diciembre 2027
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 1
+
+Documento 1: Manual Corporativo de Recursos
+Humanos
+1.1 Historia y Filosofía de Expansión
+Banco  Atlas  Financiero  S.A.  inició  sus  operaciones  como  una  caja  de  crédito  local,  pero
+rápidamente escaló hacia un modelo de banca múltiple impulsado por la ciencia de datos. Nuestra
+misión es empoderar financieramente a los ciudadanos mediante decisiones crediticias justas y
+transparentes. La visión al 2030 es convertirnos en el ecosistema financiero más ágil de la región,
+apalancando arquitecturas tecnológicas de vanguardia y el talento humano más competitivo del
+mercado.
+Para lograrlo, la organización invierte el 15% de sus utilidades netas en programas de desarrollo y
+capacitación.  Entendemos  que  el  crecimiento  de  nuestros  colaboradores  es  el  único  motor
+sostenible de rentabilidad. Por ello, hemos diseñado un modelo de gestión por competencias que
+evalúa  tanto  el  "qué"  (resultados  numéricos)  como  el  "cómo"  (alineamiento  cultural  y
+metodológico).
+1.2 El Modelo de Competencias Atlas (Diccionario de Competencias)
+Todos los colaboradores son evaluados semestralmente bajo 10 competencias cardinales. A
+continuación, se detallan exhaustivamente las expectativas comportamentales para cada una:
+Competencia 1: Agilidad Estratégica
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 2
+
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 2: Liderazgo Tecnológico
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 3: Agilidad Estratégica
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 3
+
+Competencia 4: Liderazgo Tecnológico
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 5: Agilidad Estratégica
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 6: Liderazgo Tecnológico
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 4
+
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 7: Agilidad Estratégica
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 8: Liderazgo Tecnológico
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 5
+
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 9: Agilidad Estratégica
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+Competencia 10: Liderazgo Tecnológico
+Definición: Capacidad para anticipar disrupciones en el sector financiero y aplicar soluciones
+basadas en datos para mantener la competitividad de la organización. Implica un rechazo al status
+quo y una búsqueda constante de optimización de procesos mediante la automatización y el
+pensamiento crítico.
+Nivel Básico (Operativo): Ejecuta sus tareas utilizando las herramientas asignadas de
+manera eficiente. Reporta cuellos de botella a sus superiores.
+Nivel Intermedio (Analistas): Propone mejoras en su flujo de trabajo. Automatiza tareas
+repetitivas mediante scripts o macros.
+Nivel  Avanzado  (Jefaturas): Rediseña  procesos  completos  de  su  área.  Implementa
+dashboards de control y toma decisiones basadas en métricas en tiempo real.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 6
+
+Nivel  Experto  (Gerencias  y  Dirección): Transforma  el  modelo  de  negocio  del  banco
+integrando  nuevas  tecnologías  (ej.  RAG,  Machine  Learning).  Fomenta  una  cultura  de
+innovación radical y asunción calculada de riesgos.
+1.3 Políticas de Reclutamiento, Selección y Onboarding
+El proceso de atracción de talento en Banco Atlas se rige por los principios de meritocracia
+extrema, diversidad cognitiva y equidad de género. El flujo estándar de reclutamiento dura un
+máximo de 35 días hábiles e incluye:
+Alineamiento del Perfil: El área solicitante define las competencias técnicas y blandas
+(Hard & Soft Skills) requeridas, cruzando la información con la Relación de Puestos de
+Trabajo (RPT).
+Sourcing Multicanal: Publicación en portales de empleo, redes profesionales y bolsas
+universitarias clave (ej. UNLM, PUCP).
+Evaluación Psicométrica y Técnica: Aplicación de pruebas lógicas, assessment centers y,
+para roles tecnológicos, pruebas de codificación asíncronas.
+Panel de Entrevistas: Entrevista con Recursos Humanos (Filtro Cultural), Entrevista con el
+Hiring Manager (Filtro Técnico) y Entrevista Final con la Dirección de Área.
+Oferta Vinculante y Background Check: Verificación exhaustiva de referencias, historial
+crediticio y antecedentes penales/policiales.
+El programa de  Onboarding Corporativo tiene una duración de 90 días. Durante la primera
+semana, el nuevo colaborador no ejerce funciones operativas; en su lugar, recibe inducciones
+inmersivas sobre Cultura, Compliance (AML/KYC), Seguridad de la Información y prevención de
+Riesgos Laborales. Un "Buddy" (compañero guía) es asignado durante el primer mes para facilitar
+la adaptación social al equipo.
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 7
+
+Documento 2: Reglamento Interno de Trabajo (RIT)
+Expandido
+2.1 Políticas de Seguridad y Salud en el Trabajo (SST)
+Banco Atlas Financiero garantiza un entorno de trabajo seguro y ergonómico. El Comité de SST,
+compuesto de forma paritaria por representantes del empleador y de los trabajadores, se reúne
+mensualmente.  Las  inspecciones  de  infraestructura  se  realizan  bimestralmente  en  todas  las
+agencias a nivel nacional.
+Ergonomía  en  Teletrabajo: Los  colaboradores  en  modalidad  híbrida  o  remota  excepcional
+reciben  un  bono  único  de  "Setup  Tecnológico"  (USD  350)  para  la  adquisición  de  sillas
+ergonómicas,  monitores  secundarios  y  periféricos.  Es  obligatorio  aprobar  el  curso  anual  de
+"Higiene Postural" dictado por la mutua de salud.
+2.2 Procedimiento Extendido para Denuncias de Acoso y Hostigamiento
+Cualquier colaborador que sea víctima o testigo de actos de hostigamiento sexual, acoso laboral
+(mobbing) o discriminación, debe activar el protocolo de intervención inmediata:
+Presentación de la denuncia a través del Canal Ético (anónimo o nominativo) gestionado por
+un tercero independiente, o directamente ante el Comité de Intervención.
+El Comité dispone de 1 día hábil para dictar medidas de protección (ej. separación física del
+denunciado, rotación de área, licencia con goce de haber para la víctima).
+Se inicia una investigación sumaria confidencial con un plazo máximo de 15 días calendario
+para emitir un informe final.
+Si se comprueba la falta, se aplica el régimen disciplinario que contempla el despido
+inmediato del ofensor, sin perjuicio de las acciones legales penales que el banco interponga.
+2.3 Protocolos de Uso de Instalaciones y Vestimenta
+El banco adopta un código de vestimenta "Business Casual" (Casual de Negocios) para la sede
+administrativa central. El personal de la red de agencias (contacto directo con clientes) debe
+utilizar el uniforme institucional provisto por el banco (tres juegos completos anuales). Para áreas
+1. 
+2. 
+3. 
+4. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 8
+
+de tecnología e innovación, se permite vestimenta informal siempre que mantenga estándares de
+limpieza y decoro profesional.
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 9
+
+Documento 3: Políticas Corporativas y Compliance
+3.1 Marco Ampliado de Prevención de Fraude y Corrupción (FCPA)
+En cumplimiento de las normativas internacionales antisoborno y la ley local, el banco prohíbe
+terminantemente  la  oferta,  promesa,  autorización  o  pago  de  cualquier  soborno  o  beneficio
+indebido a funcionarios públicos o privados. Las políticas de regalos y hospitalidad establecen que
+ningún colaborador puede aceptar obsequios con un valor comercial superior a USD 50. Todo
+regalo que exceda este monto debe ser sorteado entre todo el personal del área a fin de año, y
+debe registrarse obligatoriamente en el "Libro de Hospitalidad" de Compliance.
+3.2 Debida Diligencia (KYC) y Monitoreo Transaccional Detallado
+El banco clasifica a sus clientes en tres niveles de riesgo (Bajo, Medio, Alto) utilizando matrices
+algorítmicas de scoring. Los clientes de Alto Riesgo (ej. rubro de construcción, minería no formal,
+casas de cambio) son sometidos a una Debida Diligencia Reforzada (EDD). Esta incluye:
+Verificación in situ (visita presencial) de las operaciones del cliente.
+Solicitud de declaraciones juradas de origen de fondos firmadas por auditores externos.
+Monitoreo transaccional diario en lugar de mensual.
+Revisión del perfil cada 6 meses por el Oficial AML.
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 10
+
+3.3 Matriz de Retención Documental Extendida
+Tipo de Documento /
+Registro
+Plazo Legal de
+Conservación
+Método de Almacenamiento Oficial
+Expedientes de Crédito
+Liquidados
+10 años desde la extinción
+de la deuda
+Digitalización certificada + Bóveda
+física (primeros 3 años)
+Alertas SAR (Operaciones
+Sospechosas)
+10 años desde su emisión
+Servidor cifrado aislado (Air-gapped)
+Registros Biomédicos y
+Ocupacionales
+20 años desde el cese del
+trabajador
+Archivo médico confidencial cifrado
+Logs de Auditoría de
+Sistemas Core
+5 años
+Almacenamiento Cloud inmutable
+(WORM)
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 11
+
+Documento 4: Manual de Seguridad de la Información,
+Ciberseguridad y Tecnologías Emergentes
+4.1 Gobernanza de Modelos de Inteligencia Artificial (ML y RAG)
+Con la adopción de tecnologías de análisis predictivo, modelos de Machine Learning (ML) y
+arquitecturas de Retrieval-Augmented Generation (RAG) para la atención automatizada, el banco
+ha establecido protocolos estrictos de seguridad algorítmica:
+Aislamiento  de  Datos  de  Entrenamiento: Los  modelos  de  Computer  Vision,
+procesamiento  de  lenguaje  natural  y  motores  de  recomendación  deben  entrenarse
+exclusivamente en entornos "Sandbox" utilizando conjuntos de datos anonimizados. Está
+prohibido  usar  datos  PII  (Personally  Identifiable  Information)  reales  en  fases  de
+entrenamiento.
+Seguridad en Arquitecturas RAG: Las bases de conocimiento vectoriales (Embeddings)
+utilizadas para alimentar los sistemas RAG corporativos deben aplicar Control de Acceso
+Basado  en  Roles  (RBAC)  a  nivel  de  documento.  El  LLM  no  debe  poder  recuperar
+información clasificada como Nivel 4 si el usuario que realiza la consulta no tiene dichos
+privilegios.
+Defensa contra Prompt Injection: Todos los endpoints de IA generativa expuestos a
+clientes  o  empleados  deben  contar  con  firewalls  semánticos  para  mitigar  ataques  de
+inyección de prompts, jailbreaking o extracción de datos del sistema (Data Exfiltration).
+4.2 Criptografía y Protección de Datos en Tránsito y Reposo
+Todos los datos clasificados como Confidenciales (Nivel 3) o Altamente Confidenciales (Nivel 4)
+deben estar cifrados en reposo utilizando el algoritmo AES-256. Las claves criptográficas (KMS)
+se rotan automáticamente cada 30 días y son custodiadas por el equipo de Ciberseguridad de
+forma segregada a los administradores de bases de datos. Los datos en tránsito (comunicaciones
+API,  transferencias  de  archivos,  conexiones  de  usuarios)  deben  estar  asegurados  mediante
+protocolos TLS 1.3 o superior.
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 12
+
+Documento 5: Beneficios, Seguros y Compensación
+Total
+5.1 Programa de Beneficios Flexibles "Atlas Choice"
+Reconociendo  la  diversidad  de  nuestro  equipo,  el  banco  implementa  un  sistema  de  puntos
+anuales (Atlas Points) que cada colaborador puede canjear según sus necesidades personales y
+ciclo de vida:
+Subvención de Guardería: Cobertura del 70% de la mensualidad en nidos y guarderías
+afiliadas para hijos menores de 4 años.
+Membresías de Bienestar: Acceso a cadenas de gimnasios premium a nivel nacional,
+aplicaciones de meditación y asesoría nutricional corporativa.
+Seguro Oncológico: Póliza complementaria que cubre el 100% de tratamientos contra el
+cáncer en centros especializados nacionales e internacionales.
+Plan Dental y Oftalmológico Avanzado: Cobertura de ortodoncia, cirugías refractivas y
+prótesis dentales hasta por USD 3,000 anuales.
+5.2 Fondo de Jubilación Complementaria y Préstamos Empleados
+Para fomentar el ahorro a largo plazo, el banco ofrece un "Matching Plan". Por cada dólar que el
+empleado decida descontar voluntariamente de su nómina hacia el fondo de ahorro interno (hasta
+un máximo del 5% de su salario), el banco aportará un dólar adicional. Estos fondos se invierten
+en portafolios de bajo riesgo y son entregados al momento de la desvinculación o jubilación.
+Asimismo, los colaboradores con más de 2 años de antigüedad acceden a tasas preferenciales
+(TCEA 4.5% anual) para créditos hipotecarios de primera vivienda y créditos vehiculares, sujetos a
+evaluación de su capacidad de endeudamiento (máximo 30% de afectación de sus ingresos
+netos).
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 13
+
+Documento 6: Relación de Puestos de Trabajo (RPT)
+Expandida
+A continuación se detallan los perfiles descriptivos de puesto (Job Descriptions) para los roles
+críticos y operativos de Banco Atlas Financiero. Este catálogo es utilizado para los procesos de
+auditoría, calibración salarial y diseño de planes de sucesión.
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 14
+
+Director General (CEO) (Senior)
+ID de Puesto: P-0001 | Departamento: Dirección 
+Reporta a: Directorio | Nivel Salarial: 10 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Dirección, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Directorio para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 19 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 15
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 16
+
+Chief Risk Officer (CRO) II
+ID de Puesto: P-0002 | Departamento: Riesgos 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 17
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 18
+
+Chief Information Security Officer (CISO) (Junior)
+ID de Puesto: P-0003 | Departamento: Seguridad 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Seguridad, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 19
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 20
+
+Director de Recursos Humanos (Senior)
+ID de Puesto: P-0004 | Departamento: RRHH 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 21
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 22
+
+Director de Operaciones (Junior)
+ID de Puesto: P-0005 | Departamento: Operaciones 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 23
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 24
+
+Chief Compliance Officer (CCO) II
+ID de Puesto: P-0006 | Departamento: Compliance 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Compliance, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 25
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 26
+
+Data Scientist Lead (Senior)
+ID de Puesto: P-0007 | Departamento: Riesgos/Analítica 
+Reporta a: CRO | Nivel Salarial: 7 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos/Analítica, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 13 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 27
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 28
+
+Machine Learning Engineer II
+ID de Puesto: P-0008 | Departamento: Tecnología 
+Reporta a: Gerente de TI | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Tecnología, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de TI para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 29
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 30
+
+Arquitecto de Soluciones RAG (Junior)
+ID de Puesto: P-0009 | Departamento: Innovación 
+Reporta a: Gerente de Canales | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Innovación, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de Canales para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 31
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 32
+
+Gerente de Riesgo Crediticio (Senior)
+ID de Puesto: P-0010 | Departamento: Riesgos 
+Reporta a: CRO | Nivel Salarial: 8 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 15 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 33
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 34
+
+Oficial AML Senior (Junior)
+ID de Puesto: P-0011 | Departamento: Compliance 
+Reporta a: CCO | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Compliance, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CCO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 35
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 36
+
+Auditor Interno de Sistemas II
+ID de Puesto: P-0012 | Departamento: Auditoría 
+Reporta a: Directorio | Nivel Salarial: 7 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Auditoría, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Directorio para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 13 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 37
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 38
+
+Ingeniero DevSecOps (Senior)
+ID de Puesto: P-0013 | Departamento: Seguridad 
+Reporta a: CISO | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Seguridad, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CISO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 39
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 40
+
+UX/UI Designer Senior II
+ID de Puesto: P-0014 | Departamento: Innovación 
+Reporta a: Gerente de Canales | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Innovación, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de Canales para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 41
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 42
+
+Analista de Datos de Personas (Junior)
+ID de Puesto: P-0015 | Departamento: RRHH 
+Reporta a: Director RRHH | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Director RRHH para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 43
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 44
+
+Gerente Regional de Agencias (Senior)
+ID de Puesto: P-0016 | Departamento: Comercial 
+Reporta a: Director de Operaciones | Nivel Salarial: 8 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Comercial, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar  transversalmente  con  las  áreas  de  Director  de  Operaciones  para
+sincronizar los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 15 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 45
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 46
+
+Ejecutivo Comercial de Plataforma (Junior)
+ID de Puesto: P-0017 | Departamento: Comercial 
+Reporta a: Gerente Regional | Nivel Salarial: 4 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Comercial, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente Regional para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 7 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 47
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 48
+
+Cajero Bancario Principal II
+ID de Puesto: P-0018 | Departamento: Operaciones 
+Reporta a: Supervisor de Agencia | Nivel Salarial: 3 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Supervisor de Agencia para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 5 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 49
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 3. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 50
+
+Supervisor de Bóveda (Senior)
+ID de Puesto: P-0019 | Departamento: Operaciones 
+Reporta a: Gerente Regional | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente Regional para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 51
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 52
+
+Practicante de People Analytics II
+ID de Puesto: P-0020 | Departamento: RRHH 
+Reporta a: Analista de Datos | Nivel Salarial: 1 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Analista de Datos para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 1 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 53
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 1. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 54
+
+Director General (CEO) (Junior)
+ID de Puesto: P-0021 | Departamento: Dirección 
+Reporta a: Directorio | Nivel Salarial: 10 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Dirección, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Directorio para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 19 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 55
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 56
+
+Chief Risk Officer (CRO) (Senior)
+ID de Puesto: P-0022 | Departamento: Riesgos 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 57
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 58
+
+Chief Information Security Officer (CISO) (Junior)
+ID de Puesto: P-0023 | Departamento: Seguridad 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Seguridad, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 59
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 60
+
+Director de Recursos Humanos II
+ID de Puesto: P-0024 | Departamento: RRHH 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 61
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 62
+
+Director de Operaciones (Senior)
+ID de Puesto: P-0025 | Departamento: Operaciones 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 63
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 64
+
+Chief Compliance Officer (CCO) II
+ID de Puesto: P-0026 | Departamento: Compliance 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Compliance, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 65
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 66
+
+Data Scientist Lead (Junior)
+ID de Puesto: P-0027 | Departamento: Riesgos/Analítica 
+Reporta a: CRO | Nivel Salarial: 7 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos/Analítica, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 13 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 67
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 68
+
+Machine Learning Engineer (Senior)
+ID de Puesto: P-0028 | Departamento: Tecnología 
+Reporta a: Gerente de TI | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Tecnología, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de TI para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 69
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 70
+
+Arquitecto de Soluciones RAG (Junior)
+ID de Puesto: P-0029 | Departamento: Innovación 
+Reporta a: Gerente de Canales | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Innovación, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de Canales para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 71
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 72
+
+Gerente de Riesgo Crediticio II
+ID de Puesto: P-0030 | Departamento: Riesgos 
+Reporta a: CRO | Nivel Salarial: 8 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 15 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 73
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 74
+
+Oficial AML Senior (Senior)
+ID de Puesto: P-0031 | Departamento: Compliance 
+Reporta a: CCO | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Compliance, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CCO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 75
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 76
+
+Auditor Interno de Sistemas II
+ID de Puesto: P-0032 | Departamento: Auditoría 
+Reporta a: Directorio | Nivel Salarial: 7 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Auditoría, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Directorio para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 13 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 77
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 78
+
+Ingeniero DevSecOps (Junior)
+ID de Puesto: P-0033 | Departamento: Seguridad 
+Reporta a: CISO | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Seguridad, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CISO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 79
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 80
+
+UX/UI Designer Senior (Senior)
+ID de Puesto: P-0034 | Departamento: Innovación 
+Reporta a: Gerente de Canales | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Innovación, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de Canales para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 81
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 82
+
+Analista de Datos de Personas (Junior)
+ID de Puesto: P-0035 | Departamento: RRHH 
+Reporta a: Director RRHH | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Director RRHH para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 83
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 84
+
+Gerente Regional de Agencias II
+ID de Puesto: P-0036 | Departamento: Comercial 
+Reporta a: Director de Operaciones | Nivel Salarial: 8 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Comercial, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar  transversalmente  con  las  áreas  de  Director  de  Operaciones  para
+sincronizar los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 15 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 85
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 86
+
+Ejecutivo Comercial de Plataforma (Senior)
+ID de Puesto: P-0037 | Departamento: Comercial 
+Reporta a: Gerente Regional | Nivel Salarial: 4 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Comercial, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente Regional para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 7 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 87
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 88
+
+Cajero Bancario Principal II
+ID de Puesto: P-0038 | Departamento: Operaciones 
+Reporta a: Supervisor de Agencia | Nivel Salarial: 3 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Supervisor de Agencia para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 5 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 89
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 3. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 90
+
+Supervisor de Bóveda (Junior)
+ID de Puesto: P-0039 | Departamento: Operaciones 
+Reporta a: Gerente Regional | Nivel Salarial: 5 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente Regional para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 9 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 91
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 92
+
+Practicante de People Analytics (Senior)
+ID de Puesto: P-0040 | Departamento: RRHH 
+Reporta a: Analista de Datos | Nivel Salarial: 1 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Analista de Datos para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 1 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 93
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 1. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 94
+
+Director General (CEO) (Junior)
+ID de Puesto: P-0041 | Departamento: Dirección 
+Reporta a: Directorio | Nivel Salarial: 10 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Dirección, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Directorio para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 19 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 95
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 96
+
+Chief Risk Officer (CRO) II
+ID de Puesto: P-0042 | Departamento: Riesgos 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 97
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 98
+
+Chief Information Security Officer (CISO) (Senior)
+ID de Puesto: P-0043 | Departamento: Seguridad 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Seguridad, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 99
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 100
+
+Director de Recursos Humanos II
+ID de Puesto: P-0044 | Departamento: RRHH 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de RRHH, alineando los objetivos del área con la visión macro de
+Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad  fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 101
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 102
+
+Director de Operaciones (Junior)
+ID de Puesto: P-0045 | Departamento: Operaciones 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Operaciones, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 103
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 104
+
+Chief Compliance Officer (CCO) (Senior)
+ID de Puesto: P-0046 | Departamento: Compliance 
+Reporta a: CEO | Nivel Salarial: 9 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Compliance, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CEO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 17 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 105
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 106
+
+Data Scientist Lead (Junior)
+ID de Puesto: P-0047 | Departamento: Riesgos/Analítica 
+Reporta a: CRO | Nivel Salarial: 7 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos/Analítica, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 13 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 107
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 108
+
+Machine Learning Engineer II
+ID de Puesto: P-0048 | Departamento: Tecnología 
+Reporta a: Gerente de TI | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Tecnología, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de TI para sincronizar los
+esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 109
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 110
+
+Arquitecto de Soluciones RAG (Senior)
+ID de Puesto: P-0049 | Departamento: Innovación 
+Reporta a: Gerente de Canales | Nivel Salarial: 6 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Innovación, alineando los objetivos del área con la visión
+macro  de  Banco  Atlas  Financiero.  Este  rol  requiere  un  alto  nivel  de  responsabilidad
+fiduciaria,  capacidad  analítica  y  un  compromiso  inquebrantable  con  las  políticas  de
+Compliance y Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de Gerente de Canales para sincronizar
+los esfuerzos corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 11 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 111
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 112
+
+Gerente de Riesgo Crediticio II
+ID de Puesto: P-0050 | Departamento: Riesgos 
+Reporta a: CRO | Nivel Salarial: 8 
+1. Propósito General del Cargo
+El propósito principal de esta posición es asegurar la excelencia operativa y estratégica
+dentro del departamento de Riesgos, alineando los objetivos del área con la visión macro
+de Banco Atlas Financiero. Este rol requiere un alto nivel de responsabilidad fiduciaria,
+capacidad analítica y un compromiso inquebrantable con las políticas de Compliance y
+Ciberseguridad vigentes.
+2. Responsabilidades Clave (KPIs)
+Diseñar,  ejecutar  y  monitorear  los  planes  operativos  trimestrales  (OKRs)
+correspondientes a su vertical funcional, garantizando una desviación presupuestaria
+menor al 5%.
+Asegurar el cumplimiento estricto de las normativas de seguridad de la información,
+protegiendo los activos clasificados como Confidenciales y Altamente Confidenciales.
+Fomentar un clima laboral positivo, participando activamente en las evaluaciones de
+desempeño 360° y programas de mentoría interna.
+Emitir reportes gerenciales detallados sobre el desempeño operativo, identificando
+proactivamente áreas de mejora y automatización (RPA, IA, etc.).
+Colaborar transversalmente con las áreas de CRO para sincronizar los esfuerzos
+corporativos y reducir los silos organizacionales.
+3. Requisitos Académicos y Experiencia
+Grado  de  Bachiller  o  Titulación  Universitaria  en  Administración,  Ingeniería,
+Estadística  e  Informática,  Economía  o  ramas  afines.  (Grados  de  Maestría  son
+valorados para niveles > 6).
+Experiencia mínima comprobada de 15 años en el sector financiero, tecnológico o de
+servicios corporativos de gran escala.
+Certificaciones vigentes aplicables a su rama de especialidad (ej. CFA, FRM, CISM,
+AWS Certified, Scrum Master, según corresponda).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 113
+
+4. Competencias Técnicas (Hard Skills)
+Dominio avanzado de herramientas de análisis de datos (SQL, Python avanzado, Power BI,
+Excel Avanzado). Conocimiento sólido del marco regulatorio financiero local e internacional.
+Manejo de sistemas ERP y Core Bancario institucional. Para roles vinculados a analítica, se
+requiere capacidad de despliegue de modelos algorítmicos en arquitecturas en la nube y
+conocimiento en frameworks de Machine Learning e Inteligencia Artificial (ej. Streamlit,
+LangChain, PyTorch).
+Nota de Clasificación: Este puesto tiene acceso predeterminado a información
+clasificada hasta el Nivel 4. El colaborador deberá firmar un Acuerdo de No Divulgación
+(NDA) extendido y someterse a monitoreos de DLP (Data Loss Prevention) aleatorios. 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 114
+
+Documento 7: Manual Extendido de Nómina,
+Compensaciones y Fiscalidad
+7.1 Metodología de Cálculo de Impuestos y Rentas
+El banco actúa como agente de retención solidario ante la autoridad tributaria nacional. El cálculo
+del Impuesto a la Renta de Quinta Categoría (rentas del trabajo dependiente) se proyecta de forma
+anualizada desde enero, sumando las 12 remuneraciones básicas más las gratificaciones legales
+(julio y diciembre) y cualquier bono de productividad estimado. Se deduce el umbral libre de
+impuestos (7 UITs) y se aplican las tasas progresivas escalonadas (8%, 14%, 17%, 20% y 30%).
+Los ajustes por variaciones salariales (ej. pago de horas extras, ascensos, licencias sin goce de
+haber) se reliquidan mensualmente para evitar saldos deudores a fin de año.
+7.2 Bono Anual por Resultados (BAR)
+Los colaboradores a partir del Nivel 4 participan en el programa de Bono Anual por Resultados
+(BAR). Este bono variable, pagadero en marzo del año siguiente al ejercicio evaluado, se calcula
+mediante una fórmula tripartita:
+Factor Corporativo (40%): Cumplimiento de la meta de Utilidad Neta (Bottom Line) del
+Banco Atlas Financiero.
+Factor de Área (30%): Logro de los OKRs específicos de la gerencia o dirección a la que
+pertenece el trabajador.
+Factor Individual (30%): Resultado de la Evaluación de Desempeño por Competencias
+(Rating  de  1  a  5).  Colaboradores  con  rating  1  o  2  (Bajo  Desempeño)  pierden
+automáticamente el derecho al bono completo.
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 115
+
+Documento 8: Manual de Operaciones, Créditos y
+Scoring Avanzado
+8.1 Arquitectura del Motor de Decisiones Crediticias (Scoring)
+Las solicitudes de crédito retail (personales y tarjetas de crédito menores a USD 50,000) no son
+evaluadas  manualmente.  Pasan  a  través  de  un  motor  de  decisiones  algorítmico  basado  en
+Machine Learning (Gradient Boosting Trees). Las variables de mayor peso predictivo son:
+Historial de Comportamiento de Pago (Bureau de Crédito): Representa el 45% del
+score. Atrasos mayores a 30 días en el sistema financiero castigan el puntaje drásticamente.
+Capacidad de Pago (RTI - Ratio de Cuota sobre Ingreso): Representa el 30%. La suma
+de todas las obligaciones financieras del cliente no debe superar el 40% de sus ingresos
+netos declarados o inferidos.
+Estabilidad Laboral / Arraigo: Representa el 15%. Años continuos laborando en el mismo
+empleador y residencia estable.
+Datos Alternativos y Huella Digital: Representa el 10%. Análisis de transaccionalidad en
+cuentas de ahorro y pagos de servicios.
+8.2 Políticas de Cobranza y Recuperación de Cartera
+El ciclo de cobranzas se divide en fases temporales para maximizar la recuperación minimizando
+el daño reputacional:
+Cobranza Preventiva (Días -5 a 0): Notificaciones automáticas amigables vía SMS, Email y
+notificaciones Push en la App móvil recordando la fecha de vencimiento.
+Cobranza Temprana (Días 1 a 30): Gestión omnicanal interna. Llamadas telefónicas y
+correos estructurados solicitando promesa de pago. Se aplican intereses moratorios de
+forma automática según tarifario.
+Cobranza  Tardía  (Días  31  a  90): Traspaso  a  agencias  de  cobranza  externas
+(Tercerización). Negociación de refinanciamientos y reprogramaciones. Congelamiento de
+tarjetas y bloqueos en centrales de riesgo.
+Cobranza Judicial o Castigo (Días 91+): Para deudas respaldadas con garantías (ej.
+hipotecas,  prendas  vehiculares),  se  inicia  el  proceso  legal  de  ejecución.  Deudas
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 116
+
+quirografarias menores son provisionadas al 100% y vendidas a carteras de recuperación
+(fondos buitre).
+8.3 Síndicatos de Crédito y Finanzas Corporativas
+Para operaciones estructuradas colosales (Superiores a USD 50,000,000), Banco Atlas Financiero
+participa en préstamos sindicados como Banco Agente o Banco Participante. Estas operaciones
+requieren  la  elaboración  de  un  "Information  Memorandum"  confidencial,  análisis  sectorial
+macroeconómico y la constitución de fideicomisos de flujos para mitigar riesgos. La aprobación es
+potestad exclusiva del Directorio Ejecutivo en pleno.
+Banco Atlas Financiero | Manual Corporativo Expandido v3.0
+USO ESTRICTAMENTE CONFIDENCIAL
+Página 117
+
